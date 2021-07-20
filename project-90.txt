@@ -1,0 +1,4 @@
+as a social worker, I want to make a cloud dairy app, 
+i have seen that many people who write their personal feelings and secret in a dairy
+but its a concern about privacy as anyone could see the private information of the owner of the dairy
+so am making an open source app where any one could sign or log in the app and write and secure their info in the firebase  
